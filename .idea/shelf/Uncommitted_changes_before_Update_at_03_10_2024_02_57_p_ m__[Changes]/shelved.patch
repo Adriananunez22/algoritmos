@@ -1,0 +1,78 @@
+Index: codigo types/codigo types/.idea/codigo types.iml
+===================================================================
+diff --git a/codigo types/codigo types/.idea/codigo types.iml b/codigo types/codigo types/.idea/codigo types.iml
+deleted file mode 100644
+--- a/codigo types/codigo types/.idea/codigo types.iml	(revision 76e2016b1d15b83e413a1f89cd144376122aebb0)
++++ /dev/null	(revision 76e2016b1d15b83e413a1f89cd144376122aebb0)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: codigo types/codigo types/.idea/inspectionProfiles/profiles_settings.xml
+===================================================================
+diff --git a/codigo types/codigo types/.idea/inspectionProfiles/profiles_settings.xml b/codigo types/codigo types/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/codigo types/codigo types/.idea/inspectionProfiles/profiles_settings.xml	(revision 76e2016b1d15b83e413a1f89cd144376122aebb0)
++++ /dev/null	(revision 76e2016b1d15b83e413a1f89cd144376122aebb0)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: codigo types/codigo types/.idea/.gitignore
+===================================================================
+diff --git a/codigo types/codigo types/.idea/.gitignore b/codigo types/codigo types/.idea/.gitignore
+deleted file mode 100644
+--- a/codigo types/codigo types/.idea/.gitignore	(revision 76e2016b1d15b83e413a1f89cd144376122aebb0)
++++ /dev/null	(revision 76e2016b1d15b83e413a1f89cd144376122aebb0)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+Index: codigo types/codigo types/.idea/modules.xml
+===================================================================
+diff --git a/codigo types/codigo types/.idea/modules.xml b/codigo types/codigo types/.idea/modules.xml
+deleted file mode 100644
+--- a/codigo types/codigo types/.idea/modules.xml	(revision 76e2016b1d15b83e413a1f89cd144376122aebb0)
++++ /dev/null	(revision 76e2016b1d15b83e413a1f89cd144376122aebb0)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/codigo types.iml" filepath="$PROJECT_DIR$/.idea/codigo types.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: codigo types/codigo types/.idea/misc.xml
+===================================================================
+diff --git a/codigo types/codigo types/.idea/misc.xml b/codigo types/codigo types/.idea/misc.xml
+deleted file mode 100644
+--- a/codigo types/codigo types/.idea/misc.xml	(revision 76e2016b1d15b83e413a1f89cd144376122aebb0)
++++ /dev/null	(revision 76e2016b1d15b83e413a1f89cd144376122aebb0)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Black">
+-    <option name="sdkName" value="Python 3.12 (codigo types)" />
+-  </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (codigo types)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
